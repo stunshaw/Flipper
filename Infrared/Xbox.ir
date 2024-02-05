@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Power
+type: parsed
+protocol: NECext
+address: 80 D8 00 00
+command: 64 9B 00 00
